@@ -6,8 +6,10 @@
 
     <groupId>io.github.eeplusing</groupId>
     <artifactId>demo1800</artifactId>
-    <version>1.0.0</version>
+    <version>0.0.1</version>
     <packaging>jar</packaging>
+    <url>https://github.com/eeplusing/demo1800</url>
+    <description>eeplusing demo1800</description>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
@@ -63,7 +65,7 @@
                 <version>0.4.0</version>
                 <extensions>true</extensions>
                 <configuration>
-                    <publishingServerId>ossrh</publishingServerId>
+                    <publishingServerId>sonatypeCentral</publishingServerId>
                     <tokenAuth>true</tokenAuth>
                 </configuration>
             </plugin>
@@ -125,5 +127,4 @@
             </plugin>
         </plugins>
     </build>
-
 </project>
