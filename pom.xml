@@ -6,7 +6,7 @@
 
     <groupId>io.github.eeplusing</groupId>
     <artifactId>demo1800</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <packaging>jar</packaging>
     <url>https://github.com/eeplusing/demo1800</url>
     <description>eeplusing demo1800</description>
@@ -38,7 +38,7 @@
     </developers>
     <!--用于发布：项目链接-->
     <scm>
-        <connection>https://github.com/eeplusing/fx-updater.git</connection>
+        <connection>https://github.com/eeplusing/demo1800.git</connection>
         <developerConnection>scm:git:ssh://git@github.com:eeplusing/demo1800.git</developerConnection>
         <url>https://github.com/eeplusing/demo1800</url>
     </scm>
